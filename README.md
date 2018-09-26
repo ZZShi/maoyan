@@ -7,6 +7,5 @@
 <br>爬虫框架：scrapy  </br>
 <br>存储环境：MongoDB </br>
 ## 结果展示
-
 <br>
 ![详情](https://github.com/ZZShi/maoyan/blob/master/maoyan/result/result.png)
